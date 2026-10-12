@@ -5,3 +5,6 @@
 
 # Databases
 *.sqlite3
+
+# Pycache
+__pycache__/
